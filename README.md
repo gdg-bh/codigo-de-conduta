@@ -8,7 +8,7 @@ Trate a todos com respeito. Participe reconhecendo que todos gostariam estar aqu
 
 ### Procure-nos se você ver ou ouvir algo
 
-Assédios não são tolerados e você é incentivado a polidamente se envolver quando você ou outros forem desrespeitosos. Por isso, assuma ações positivas. A pessoa que faz você sentir-se incomodado pode não estar consciente do que está fazendo e chamar o comportamento deles a atenção, polidamente, é encorajado.
+Assédios não são tolerados e você é incentivado a educadamente se envolver quando você ou outros forem desrespeitosos. Por isso, assuma ações positivas. A pessoa que faz você sentir-se incomodado pode não estar consciente do que está fazendo e chamar o comportamento deles a atenção, educadamente, é encorajado.
 
 ### Pratique dizer "Sim e..." uns com os outros
 
