@@ -1,47 +1,50 @@
 # Código de conduta
 
-Guia da comunidade, inspirado no Community Guidelines do Google I/O. Nós apoiamos também condutas como [Não seja um idiota](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).
+Guia da comunidade, inspirado no [Anti-Harassment Policy da Google](https://support.google.com/developergroups/answer/3340512?hl=en&ref_topic=3340510) para os GDGs. Nós apoiamos também condutas como [Não seja um idiota](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).
 
-### Sejam excelentes uns com os outros
+###Porque temos um código de conduta para o GDG Belo Horizonte?
 
-Trate a todos com respeito. Participe reconhecendo que todos gostariam estar aqui - e cada um de nós tem o direito de aproveitar sua experiência sem medo de assédio, discriminação ou condescedência, de maneira explícita ou não.
+Ele cria expectativas de comportamento nos nossos eventos. Só ter um código de conduta pode evitar assédio.
+Ele encoraja pessoas que já tiveram experiências ruins anteriormente a participarem dos nossos eventos.
+Ele dá aos organizadores/voluntários instruções de como lidar com situações de assédio rapidamente, com o mínimo de repercussão nos eventos.
 
-### Procure-nos se você ver ou ouvir algo
+###O GDG Belo Horizonte é dedicado a prover um ambiente livre de assédios para todos, independente de:
 
-Assédios não são tolerados e você é incentivado a educadamente se envolver quando você ou outros forem desrespeitosos. Por isso, assuma ações positivas. A pessoa que faz você sentir-se incomodado pode não estar consciente do que está fazendo e chamar o comportamento deles a atenção, educadamente, é encorajado.
+- gênero
+- orientação sexual
+- deficiência
+- identidade de gênero
+- idade
+- raça
+- religião
+- nacionalidade
+*Os itens listados não é uma lista completa - nós não toleraremos nenhum tipo de assédio.*
 
-### Pratique dizer "Sim e..." uns com os outros
+Linguagem e imagens de cunho sexual não são apropriados para nenhum evento, incluindo palestras. Participantes de eventos que violarem essas regras poderão ser expulsos do evento e até banidos de futuros eventos, de acordo com os critérios dos organizadores.
 
-Colabore nas ideias dos outros. Nós todos somos beneficiados quando criamos juntos.
+###Assédio inclui, mas não está limitado a:
 
-### Nós temos uma política de tolerância zero para assédio de todos os tipos, incluindo mas não limitado a:
+- comentários verbais ofensivos relacionados a gênero, orientação sexual, deficiência, identidade de gênero, idade, raça, religião
+- imagens sexuais em espaços públicos
+- intimidação deliberada
+- perseguição
+- assédio fotográfico ou em vídeo
+- perturbação constante nas palestras ou outros eventos
+- contato físico inapropriado
+- atenção sexual ou física não solicitada
+**Participantes que forem pedidos para pararem com um comportamento indevido devem obedecer imediatamente.**
 
-* Stalkear / seguir
-* Assédio fotográfico
-* Intimidação deliberada
-* Perturbação constante nas palestras ou outros eventos
-* Comentários ofensivos
-* Imagens sexuais em espaços públicos
-* Contato físico inapropriado
-* Atenção sexual ou física não solicitada
+Parceiros, expositores e palestrantes também estão sujeitos ao código de conduta. Em particular, estes não devem usar de imagens, atividades ou qualquer outro material de cunho sexual ou criar um ambiente desse tipo em sua apresentação, equipe, material de exibição, itens promocionais ou de demonstração.
 
-### Relacionado, mas não limitado a
+Se você está sendo sofrendo algum tipo de assédio, percebeu que alguém está ou tem qualquer outra intenção, por favor, [contate imediatamente](mailto:gdgbhz@gmail.com) um organizador ou voluntário. Eles podem ser identificados por camisas ou crachás especiais em eventos ou através de marcações especiais nos meetups, no caso de eventos online. Os organizadores irão investigar o problema e tomar as ações devidas. Isso pode incluir ajudar os participantes a contatarem a segurança ou as autoridades locais, providenciar escoltas ou ajudar de alguma outra forma os que estiverem sofrendo assédio a se sentirem seguros durante o evento.
 
-* Neurodiversidade
-* Raça
-* Cor
-* Nacionalidade
-* Gênero
-* Identidade do gênero
-* Apresentação do gênero
-* Orientação sexual
-* Idade
-* Tamanho corporal
-* Habilidades
-* Aparência
-* Religião
-* Gravidez
+Contato:
+[gdgbhz@gmail.com](mailto:gdgbhz@gmail.com)
+[gdgbh.org](http://gdgbh.org)
+[@gdg_bh](http://twitter.com/gdg_bh)
 
-Ao participar dos nossos eventos todos estão implicitamente concordando a seguir esse guia e, caso seja identificado qualquer comportamento que caracterize assédio, a organização pode advertir o participante e/ou convidá-lo a deixar o evento.
+Apesar de esperarmos que nunca precisemos invocar esse código de conduta, acreditamos que ter esse documento leva todos a uma reflexão sobre como suas ações e palavras afetam toda a comunidade, assim como indivíduos da comunidade.
 
-Caso queira relatar algum acontecimento, por favor, envie um email para gdgbhz@gmail.com.
+##Licença e Atribuições
+
+Esse código de conduta é licenciado através da licença [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Esse código é baseado em vários outros códigos de conduta, incluindo o Código de Conduta da Ohio LinuxFest, escrito por Esther Filderman e Beth Lynn Eicher, e o Projeto da Conferência Anti-Assédio. Mary Gardiner, Valerie Aurora, Sarah Smith e Donna Benjamin generalizaram as regras e adicionaram materiais de suporte. Membros da LinuxChix e Geek Feminism, além de vários outros grupos, contribuiram para esse trabalho.
